@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k6c3kzdal6Lw7ntsTlrxDl983WTDvU7qJIBr3pAKnOU=",
+  "Source": "SmartScannerBackend",
+  "BasePath": "_content/SmartScannerBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

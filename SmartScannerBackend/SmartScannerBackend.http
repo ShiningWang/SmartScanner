@@ -1,0 +1,6 @@
+@SmartScannerBackend_HostAddress = http://localhost:5038
+
+GET {{SmartScannerBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
